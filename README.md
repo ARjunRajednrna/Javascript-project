@@ -1,24 +1,25 @@
-# 🎉 Calculator Project 🎉
+# 💸 Expense Tracker Project 💸
 
-A **simple and interactive** web-based calculator built using **HTML**, **CSS**, and **JavaScript**. This calculator performs basic arithmetic operations like **addition**, **subtraction**, **multiplication**, and **division**.
+A **simple and efficient** web-based **Expense Tracker** built using **HTML**, **CSS**, and **JavaScript**. This tool helps users **track their income and expenses**, visualize their spending habits, and manage their personal budget with ease.
 
 ---
 
 ## 🚀 Features
 
-- **Basic Arithmetic Operations**: Performs addition, subtraction, multiplication, and division with ease.
-- **Clear Function**: Resets the calculator to start fresh.
-- **Responsive Design**: Optimized for different screen sizes (mobile, tablet, desktop).
-- **Real-Time Calculation**: Displays the result instantly as you input numbers and operators.
-- **Interactive UI**: Clean and colorful interface with smooth animations for button presses.
+- **Add Transactions**: Easily input income and expense entries.
+- **Track Balance**: View your total balance, income, and expenses at a glance.
+- **Delete Entries**: Remove transactions if needed.
+- **Persistent Storage**: Data is saved using **localStorage**, so it remains after refreshing.
+- **Responsive Design**: Optimized for mobile, tablet, and desktop use.
+- **Interactive UI**: Clean, modern interface with smooth animations.
 
 ---
 
 ## 🛠️ Technologies Used
 
-- **HTML**: Structures the layout of the calculator and the interface.
-- **CSS**: Styles the calculator with a visually appealing, modern design.
-- **JavaScript**: Powers the logic of the calculator, handling user inputs and performing calculations.
+- **HTML** – Structures the layout of the tracker and the transaction list.
+- **CSS** – Provides modern, responsive styling.
+- **JavaScript** – Handles data logic, updates the UI, and manages local storage.
 
 ---
 
@@ -28,4 +29,4 @@ To run this project locally, follow these steps:
 
 1. **Clone** this repository to your local machine:
    ```bash
-   git clone https://github.com/your-username/calculator-project.git
+   git clone https://github.com/your-username/expense-tracker.git

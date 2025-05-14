@@ -1,31 +1,21 @@
-# 🎉 Calculator Project 🎉
+📝 To-Do List Web App
+A simple, responsive To-Do List web application built with HTML, CSS, and JavaScript. It allows users to add, delete, and mark tasks as complete. This project is ideal for beginners to understand DOM manipulation and basic CRUD functionality in JavaScript.
 
-A **simple and interactive** web-based calculator built using **HTML**, **CSS**, and **JavaScript**. This calculator performs basic arithmetic operations like **addition**, **subtraction**, **multiplication**, and **division**.
+🚀 Features
+✅ Add new tasks
 
----
+🗑️ Delete tasks
 
-## 🚀 Features
+✔️ Mark tasks as complete/incomplete
 
-- **Basic Arithmetic Operations**: Performs addition, subtraction, multiplication, and division with ease.
-- **Clear Function**: Resets the calculator to start fresh.
-- **Responsive Design**: Optimized for different screen sizes (mobile, tablet, desktop).
-- **Real-Time Calculation**: Displays the result instantly as you input numbers and operators.
-- **Interactive UI**: Clean and colorful interface with smooth animations for button presses.
+💾 Data persistence using localStorage
 
----
+📱 Responsive design for mobile and desktop
 
-## 🛠️ Technologies Used
+🛠️ Built With
+HTML5 – Structure
 
-- **HTML**: Structures the layout of the calculator and the interface.
-- **CSS**: Styles the calculator with a visually appealing, modern design.
-- **JavaScript**: Powers the logic of the calculator, handling user inputs and performing calculations.
+CSS3 – Styling and layout
 
----
+JavaScript (ES6+) – Logic and interactivity
 
-## 📥 Installation
-
-To run this project locally, follow these steps:
-
-1. **Clone** this repository to your local machine:
-   ```bash
-   git clone https://github.com/your-username/calculator-project.git
